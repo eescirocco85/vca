@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "vca_Library") (type "KiCad") (uri "${KIPRJMOD}/vca_Library.pretty") (options "") (descr ""))
+)
